@@ -12,4 +12,4 @@ Built during [Adimian](https://adimian.com/) R&D week 2024.
 
 ## Images
 
-![Lightmeter](img/lightmeter.jpg)
+![Lightmeter](img/IMG_7614.jpg)
