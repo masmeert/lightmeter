@@ -1,6 +1,7 @@
 # Lightmeter
 
-Implementing a lightmeter using an Arduino, with aperture and shutter speed priority modes.
+Implementing an exposure meter using an Arduino, with aperture and shutter speed priority modes.
+
 Built during [Adimian](https://adimian.com/) R&D week 2024.
 
 ## Components
